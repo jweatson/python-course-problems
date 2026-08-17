@@ -13,4 +13,3 @@ Programming problem sheets for Python programming crash course.
 - In the sidebar of Colab, click the button that looks like a folder ("files").
 - Drag the file into the tab that appears, or click the upload button (shaped like an up arrow).
 - If it fails to upload, press the refresh button next to the upload button, and try again.
-- 
